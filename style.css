@@ -1,0 +1,30 @@
+a { text-decoration: none !important; color: #035291 !important; }
+ul, li { list-style-type: none; }
+body {
+    font-family: "Open Sans", serif;;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.menu-top li {
+    padding: 10px 20px;
+}
+
+.banner { 
+    background: #cecece;
+}
+
+.banner-text h2 { font-size: 50px; }
+
+.banner-text button {
+    background: #000;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+.services-text h3 {
+    font-size: 20px;
+}
